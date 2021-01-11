@@ -13,3 +13,14 @@
 
 - **按序打印**
    - [x] [1114.按序打印](https://leetcode-cn.com/problems/print-in-order/submissions/)
+
+## 2021-01-11
+- **二叉树的前序遍历**
+   - [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+     - [source code](2021-01-11/preorder.py)
+
+- **数组中的第 K 个最大元素**
+   - [x] [215.数组中的第 K 个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+
+- **旋转图像**
+   - [x] [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/submissions/)
