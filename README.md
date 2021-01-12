@@ -24,3 +24,13 @@
 
 - **旋转图像**
    - [x] [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/submissions/)
+
+## 2021-01-12
+- **青蛙跳台阶**
+   - [x] [青蛙跳台阶](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
+
+- **链表倒数第K个数**
+   - [x] [剑指 Offer 22. 链表倒数第K个数](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/submissions/)
+
+- **多数元素**
+   - [x] [169.多数元素](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
