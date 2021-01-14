@@ -34,3 +34,15 @@
 
 - **多数元素**
    - [x] [169.多数元素](https://leetcode-cn.com/problems/majority-element/solution/duo-shu-yuan-su-by-leetcode-solution/)
+      - [source code](2021-01-12/moore.py)
+
+## 2021-01-13
+- **选择排序**
+   - [source code](2021-01-13/selectionSort.py)    
+
+## 2021-01-14
+- **快速选择**
+   - [source code](2021-01-14/quickSelect.py)
+
+- **最小栈**
+   - [x] [155.最小栈](https://leetcode-cn.com/problems/min-stack/)
