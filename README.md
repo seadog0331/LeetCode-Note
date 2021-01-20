@@ -46,3 +46,22 @@
 
 - **最小栈**
    - [x] [155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+
+- **按奇偶排序数组**
+   - [x] [922.按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)  
+
+## 2021-01-15
+- **快速选择**
+   - [source code](2021-01-14/quickSelect.py)
+
+- **最小栈**
+   - [x] [155.最小栈](https://leetcode-cn.com/problems/min-stack/)
+
+- **用栈实现队列**
+   - [x] [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  
+
+## 2021-01-16
+- **合并两个有序数组**
+   - [x] [232.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/submissions/)  
+- **搜索旋转排序数组**
+   - [x] [33.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
