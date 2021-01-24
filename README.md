@@ -60,8 +60,41 @@
 - **用栈实现队列**
    - [x] [232.用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  
 
-## 2021-01-16
+## 2021-01-16~18
+   - [x] [复习基础数据结构的实现 队列 栈 链表 二叉树]
+
+## 2021-01-19
 - **合并两个有序数组**
    - [x] [232.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/submissions/)  
 - **搜索旋转排序数组**
    - [x] [33.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
+
+## 2021-01-20
+- **两数相加**
+   - [x] [2.两数相加](https://leetcode-cn.com/problems/add-two-numbers/)  
+- **验证IP地址**
+   - [x] [468.验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/)  
+
+## 2021-01-21
+- **快速排序--非递归**
+   - [source code](2021-01-21/quickSort-stack.py)
+- **快速排序--备选**
+   - [source code](2021-01-21/quickSort-moreSpace.py)
+
+## 2021-01-22
+- **最长公共子序列**
+   - [x] [1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  
+- **不同路径**
+   - [x] [62.不同路径](https://leetcode-cn.com/problems/unique-paths/)
+- **字符串相加**
+   - [x] [415.字符串相加](https://leetcode-cn.com/problems/add-strings/)
+  
+## 2021-01-23
+- **反转字符串中的单词**
+   - [x] [557.反转字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)  
+- **不同路径**
+   - [x] [17.22.单词转换](https://leetcode-cn.com/problems/word-transformer-lcci/)
+
+## 2021-01-23
+- **二叉树的最小深度**
+   - [x] [111.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
