@@ -92,9 +92,23 @@
 ## 2021-01-23
 - **反转字符串中的单词**
    - [x] [557.反转字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)  
-- **不同路径**
+- **单词转换**
    - [x] [17.22.单词转换](https://leetcode-cn.com/problems/word-transformer-lcci/)
 
-## 2021-01-23
+## 2021-01-24
 - **二叉树的最小深度**
    - [x] [111.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+- **二叉树的最大深度**
+   - [x] [104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+
+## 2021-01-25
+- **二叉树中的最大路径和**
+   - [x] [124.二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+- **无重复字符的最长子串**
+   - [x] [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+## 2021-01-26
+- **剑指 Offer 24. 反转链表**
+   - [x] [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
+- **反转链表 II**
+   - [x] [92.反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
